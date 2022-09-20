@@ -138,7 +138,7 @@ body {
 }
 
 .pw-error{
-    margin-top: -32px !important;
+    margin-top: -45px !important;
 }
 
 .form-field input:not(input[type="submit"]) {
@@ -155,7 +155,7 @@ body {
 .form-field i{
     position: relative;
     bottom: 57px;
-    left: 199px;
+    left: 139px;
     font-size: 1.8rem;
 }
 
@@ -206,7 +206,7 @@ a {
     .form-field i{
         position: relative;
         bottom: 57px;
-        left: 148px;
+        left: 132px;
     }
 
     .form-field input[type='password']{
