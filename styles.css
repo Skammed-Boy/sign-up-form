@@ -1,3 +1,5 @@
+@import url(//db.onlinewebfonts.com/c/7d460b18433753a097e5bc2bad7c8dd9?family=Norse);
+
 :root,
 body {
     margin: 0;
@@ -42,17 +44,14 @@ body {
     background-color: rgba(0, 0, 0, 0.3);
 }
 
-@font-face {
-    font-family: 'Norse Bold';
-    src: url('/assets/Norse-Bold.otf');
-}
+
 
 .hero-head h1 {
     color: white;
     margin: 0;
     font-size: 8rem;
-    font-weight: 300;
-    font-family: 'Norse Bold';
+    font-weight: bold;
+    font-family: 'Norse';
 }
 
 .hero-head .logo {
